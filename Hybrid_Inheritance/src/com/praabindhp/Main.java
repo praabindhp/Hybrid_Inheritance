@@ -19,7 +19,7 @@ class B extends C
 {
     public void display()
     {
-        System.out.println("Bat");
+        System.out.println("Cat");
     }
 
 }
