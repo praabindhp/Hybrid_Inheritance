@@ -1,5 +1,5 @@
 package com.praabindhp;
-class 
+class C
 {
     public void display()
     {
