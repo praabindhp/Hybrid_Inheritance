@@ -3,7 +3,7 @@ class C
 {
     public void display()
     {
-        System.out.println("Cat");
+        System.out.println("Dog");
     }
 }
 
