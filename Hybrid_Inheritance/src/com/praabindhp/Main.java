@@ -7,7 +7,7 @@ class C
     }
 }
 
-class A extends 
+class A extends C
 {
     public void display()
     {
@@ -15,7 +15,7 @@ class A extends
     }
 }
 
-class B extends 
+class B extends C
 {
     public void display()
     {
