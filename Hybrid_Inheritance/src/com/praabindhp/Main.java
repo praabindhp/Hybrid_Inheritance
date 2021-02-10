@@ -1,5 +1,5 @@
 package com.praabindhp;
-class C
+class 
 {
     public void display()
     {
@@ -7,7 +7,7 @@ class C
     }
 }
 
-class A extends C
+class A extends 
 {
     public void display()
     {
@@ -15,7 +15,7 @@ class A extends C
     }
 }
 
-class B extends C
+class B extends 
 {
     public void display()
     {
